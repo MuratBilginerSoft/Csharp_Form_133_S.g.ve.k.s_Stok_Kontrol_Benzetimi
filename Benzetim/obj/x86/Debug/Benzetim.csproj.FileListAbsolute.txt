@@ -1,0 +1,24 @@
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\bin\Debug\Benzetim.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\bin\Debug\Benzetim.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\obj\x86\Debug\Benzetim.Form1.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\obj\x86\Debug\Benzetim.Properties.Resources.resources
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\obj\x86\Debug\Benzetim.csproj.GenerateResource.Cache
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\obj\x86\Debug\Benzetim.exe
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\obj\x86\Debug\Benzetim.pdb
+F:\ \4 PROGRAMLAMA\1 C# 2012\Benzetim\Benzetim\obj\x86\Debug\Benzetim.csprojResolveAssemblyReference.cache
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\obj\x86\Debug\Benzetim.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\obj\x86\Debug\Benzetim.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\bin\Debug\Benzetim.exe
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\bin\Debug\Benzetim.pdb
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\obj\x86\Debug\Benzetim.csprojResolveAssemblyReference.cache
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\obj\x86\Debug\Benzetim.Form1.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\obj\x86\Debug\Benzetim.Properties.Resources.resources
+J:\x\1 MURAT\4 YAZILIM\1 C# PROGRAMLAMA\2 PROGRAMLAMA\1 C# 2012\A-D\Benzetim\Benzetim\obj\x86\Debug\Benzetim.csproj.GenerateResource.Cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\obj\x86\Debug\Benzetim.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\obj\x86\Debug\Benzetim.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\bin\Debug\Benzetim.exe
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\bin\Debug\Benzetim.pdb
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\obj\x86\Debug\Benzetim.csprojResolveAssemblyReference.cache
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\obj\x86\Debug\Benzetim.Form1.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\obj\x86\Debug\Benzetim.Properties.Resources.resources
+G:\03 Cloud\04 - Github - Akademi\04 - C# E.M Projeleri\101 Sürekli Gözlemli Ve Kayıp Satışlı Stok Kontrol Benzetimi v1.0\Benzetim\obj\x86\Debug\Benzetim.csproj.GenerateResource.Cache
